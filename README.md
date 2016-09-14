@@ -6,4 +6,8 @@ grainstorm is a four voice granular synthesizer for grid and arc. grainstorm map
 
 ![](grainstorm013.png)
 
+<https://www.youtube.com/watch?v=6uztDf39NtE>
+
+<https://www.youtube.com/watch?v=ybi_mZ8W3RA>
+
 see the [docs](documentation/grainstorm_docs.md).
